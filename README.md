@@ -1,6 +1,6 @@
-# calcula_imc
+# Body Mass Index Calculator
 
-A new Flutter project.
+This is a Flutter application that calculates the BMI (IMC).
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+Clone this repository
+```$ git clone git@github.com:carloscarvalhaes/calcula-imc.git```
+
+With the emulator started or the device connected run
+```$ flutter run```
