@@ -18,7 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Installation
 
 Clone this repository
+
 ```$ git clone git@github.com:carloscarvalhaes/calcula-imc.git```
 
 With the emulator started or the device connected run
+
 ```$ flutter run```
